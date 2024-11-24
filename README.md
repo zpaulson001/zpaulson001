@@ -1,16 +1,26 @@
-## Hi there 👋
+## READ... a little about ...ME
 
-<!--
-**zpaulson001/zpaulson001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Zac. I think tech is pretty cool, but I think it's way cooler when it's solving problems that help others live better lives. Currently, I'm building the backend at the NLAPI.
 
-Here are some ideas to get you started:
+### Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [The NLAPI](https://nlapi.io) - An API that enables users to interact with their data through conversation.
+
+### My Toolbox 🧰
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logo=LangChain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+### Things I'm Learning
+
+- API testing with pytest and FastAPI
+
+---
+<p align="center">🌍 🌎 🌏</p>
