@@ -1,6 +1,6 @@
 ## READ( a little about )ME
 
-Hi! I'm Zac. I think tech is pretty cool, but I think it's way cooler when it's solving problems that help others live better lives. Currently, I'm building the backend at the NLAPI.
+Hi! I'm Zac. I'm just a guy who likes making things and solving problems, especially ones that genuinely help other people. Currently, I'm building the backend at the NLAPI.
 
 ### Current Projects
 
