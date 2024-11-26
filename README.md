@@ -1,4 +1,4 @@
-## READ... a little about ...ME
+## READ( a little about )ME
 
 Hi! I'm Zac. I think tech is pretty cool, but I think it's way cooler when it's solving problems that help others live better lives. Currently, I'm building the backend at the NLAPI.
 
