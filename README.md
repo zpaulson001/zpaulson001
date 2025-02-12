@@ -4,6 +4,7 @@ Hi! I'm Zac. I like making techy things that solve problems, especially ones tha
 
 - [The NLAPI](https://nlapi.io) - An API that enables users to interact with their data through conversation.
 - [RFK Central](https://github.com/Royal-Family-Kids-Camp-Fargo/RFKCFargo) - An app that helps Royal Family Kids camp manage donor and volunteer pipelines.
+- [Tyny](https://github.com/zpaulson001/tyny) - A real-time translation/transcription API.
 
 ### My Toolbox 🧰
 
