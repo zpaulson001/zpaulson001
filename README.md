@@ -2,9 +2,9 @@
 
 Hi! I'm Zac. I like using technology to solve problems, especially ones that genuinely help other people. Currently, I'm working on:
 
-- [The NLAPI](https://nlapi.io) - An API that enables users to interact with their data through conversation.
-- [RFK Central](https://github.com/Royal-Family-Kids-Camp-Fargo/RFKCFargo) - An app that helps Royal Family Kids camp manage donor and volunteer pipelines.
 - [Tyny](https://github.com/zpaulson001/tyny) - A real-time translation/transcription app.
+- [The NLAPI](https://nlapi.io) - An API for interacting with APIs and SQL databases via natural language.
+- [RFK Central](https://github.com/Royal-Family-Kids-Camp-Fargo/RFKCFargo) - An app that helps Royal Family Kids camp manage donor and volunteer pipelines.
 
 ### My Toolbox 🧰
 
@@ -18,10 +18,6 @@ Hi! I'm Zac. I like using technology to solve problems, especially ones that gen
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-### Things I'm Learning
-
-- API testing with pytest and FastAPI
 
 ---
 <p align="center">🌍 🌎 🌏</p>
