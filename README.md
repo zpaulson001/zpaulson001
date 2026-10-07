@@ -1,12 +1,9 @@
 ## READ( a little about )ME
 
-Hi! I'm Zac. I like using technology to solve problems, especially ones that genuinely help other people. 
-
-Currently, I'm working on:
-
-- [Tyny](https://github.com/zpaulson001/tyny) - Real-time translation/transcription
+Hi! I'm Zac. I find joy in using technology to solve problems, especially ones that make a difference in the lives of others. 
 
 I've previously worked on:
+- [Tyny](https://github.com/zpaulson001/tyny) - Real-time translation/transcription
 - [The NLAPI](https://nlapi.io) - An API for interacting with APIs and SQL databases via natural language.
 - [RFK Central](https://github.com/Royal-Family-Kids-Camp-Fargo/RFKCFargo) - An app that helps Royal Family Kids camp manage donor and volunteer pipelines.
 
